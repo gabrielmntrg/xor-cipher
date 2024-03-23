@@ -20,7 +20,7 @@ The time complexity of the algorithm is linear, O(n), where 'n' is the length of
 ```
 gcc -o Cryptographer Cryptographer.c
 ```
-2. Execution: run the compiled executable. On Windows-based systems, you can do this by executing:  
+2. Execution: run the compiled executable. On Windows systems, you can do this by executing:  
 ```
 .\Cryptographer.exe
 ```
