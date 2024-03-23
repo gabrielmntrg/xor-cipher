@@ -4,7 +4,9 @@
   
 • **What is XOR cipher:** XOR cipher is an additive cypher based on the XOR operation (also known as the exclusive disjunction) in logic. In an XOR operation, the output is true when the inputs differ. The XOR cipher employs the XOR logical operation in order to encrypt data. First, a random key is generated. Then, XOR operation is performed using the key so that an encrypted data is created. In order to decrypt, the same key should be used and XOR operation should be run again. The XOR operation uses the same key for both encryption and decryption. That is why it is known as a symmetric encryption.
 
+![image](https://github.com/gabrielmntrg/xor-cipher/assets/130491681/60d70113-f3ac-4fa2-be59-9d44faec5e4b)
 ![image](https://github.com/gabrielmntrg/xor-encryption/assets/130491681/b73e6ccc-dc7d-449f-b627-f2eb9beda123)
+
 
 # Time Complexity
 
