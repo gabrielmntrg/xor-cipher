@@ -7,13 +7,6 @@
 ![image](https://github.com/gabrielmntrg/xor-cipher/assets/130491681/60d70113-f3ac-4fa2-be59-9d44faec5e4b)
 ![image](https://github.com/gabrielmntrg/xor-encryption/assets/130491681/b73e6ccc-dc7d-449f-b627-f2eb9beda123)
 
-
-# Time Complexity
-
-The time complexity of the algorithm is linear, O(n), where 'n' is the length of the message. This is because the algorithm iterates over the message once to generate the key and then again to encrypt the message.
-
-![image](https://github.com/gabrielmntrg/xor-encryption/assets/130491681/7b5e97f3-d4ed-4517-94d5-a0b73234b73b)
-
 # Run the Code
 
 1. Compilation: compile the source file 'Cryptographer' using any C/C++ compiler:  
