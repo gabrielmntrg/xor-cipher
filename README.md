@@ -1,4 +1,4 @@
-# Simple XOR Encryption in C++
+# Simple XOR Encryption in C
 
 • **How the code works:** the program generates a random key of the same length as the message by reading from '/dev/urandom'. It then performs an XOR operation between each byte of the message and the corresponding byte of the generated key to encrypt the message. The ciphertext is printed in hexadecimal format.
   
@@ -11,7 +11,7 @@
 
 1. Compilation: compile the source file 'Cryptographer' using any C/C++ compiler:  
 ```
-g++ -o Cryptographer Cryptographer.cpp
+gcc -o Cryptographer Cryptographer.c
 ```
 2. Execution: run the compiled executable. On Windows systems, you can do this by executing:  
 ```
